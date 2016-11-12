@@ -1,4 +1,4 @@
-// regex is a test package of a simple regex, supporting '.', '*', 'a-z'
+// Package regex implements a simple recursion-free regex, supporting '.', '*', 'a-z'
 // using a stack instead of
 package regex
 
