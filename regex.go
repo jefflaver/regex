@@ -1,5 +1,4 @@
 // Package regex implements a simple recursion-free regex, supporting '.', '*', 'a-z'
-// using a stack instead of
 package regex
 
 type regexState struct {
