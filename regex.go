@@ -1,6 +1,5 @@
 // regex is a test package of a simple regex, supporting '.', '*', 'a-z'
 // using a stack instead of
-
 package regex
 
 type regexState struct {
